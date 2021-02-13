@@ -1,0 +1,47 @@
+# translation of el.po to Modern Greek
+# Greek catalog for nemo-easytag.
+# Copyright (C) 2005 Free Software Foundation, Inc.
+# This file is distributed under the same license as the nemo-easytag package.
+# Apollon Oikonomopoulos <apoikos@mail.ntua.gr>, 2005.
+# Dimitris Spingos (Δημήτρης Σπίγγος) <dmtrs32@gmail.com>, 2013.
+msgid ""
+msgstr ""
+"Project-Id-Version: nemo-easytag 1.99.11\n"
+"Report-Msgid-Bugs-To: https://github.com/Ubuntu-Cinnamon-Remix/nemo-easytag/issues"
+"POT-Creation-Date: 2019-10-25 08:21+0000\n"
+"PO-Revision-Date: 2019-11-21 23:57+0200\n"
+"Last-Translator: Efstathios Iosifidis <iosifidis@opensuse.org>\n"
+"Language-Team: team@gnome.gr\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Project-Style: gnome\n"
+
+#: ../data/easytag-nautilus.metainfo.xml.in.h:1
+#: ../nautilus-extension/nautilus-easytag.c:247
+msgid "Open with EasyTAG"
+msgstr "Άνοιγμα με το EasyTAG"
+
+#: ../data/easytag-nautilus.metainfo.xml.in.h:2
+msgid "Open directories and audio files with EasyTAG using the context menu"
+msgstr ""
+
+#: ../nautilus-extension/nautilus-easytag.c:229
+msgid "Open in EasyTAG"
+msgstr "Άνοιγμα στο EasyTAG"
+
+#: ../nautilus-extension/nautilus-easytag.c:230
+#, fuzzy
+#| msgid "Save the selected images to files"
+msgid "Open the selected directory in EasyTAG"
+msgstr "Αποθήκευση των επιλεγμένων εικόνων στα αρχεία"
+
+#: ../nautilus-extension/nautilus-easytag.c:248
+#, fuzzy
+#| msgid "Include only the selected files"
+msgid "Open the selected files in EasyTAG"
+msgstr "Να περιλαμβάνει μόνο τα επιλεγμένα αρχεία"

@@ -1,0 +1,47 @@
+# Czech translation for nemo-nemo-easytag
+# Copyright (C) 2002-2007 Free Software Foundation, Inc.
+#
+# Milan Siebenburger <milan.siebenburger@ais.cz>, 2002, 2003, 2004.
+# Zbynek Mrkvicka <zbynek@mrkvicka.eu>, 2005, 2006, 2007
+# Marek Černocký <marek@manet.cz>, 2013, 2014, 2015, 2016.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: nemo-easytag 2.1.2\n"
+"Report-Msgid-Bugs-To: https://github.com/Ubuntu-Cinnamon-Remix/nemo-easytag"
+"product=nemo-easytag&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2016-12-14 08:58+0000\n"
+"PO-Revision-Date: 2016-12-17 17:07+0100\n"
+"Last-Translator: Marek Černocký <marek@manet.cz>\n"
+"Language-Team: čeština <gnome-cs-list@gnome.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Czech\n"
+"X-Poedit-Country: CZECH REPUBLIC\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Gtranslator 2.91.7\n"
+
+#: ../data/org.nemo.extensions.easytag.metainfo.xml:1
+#: ../src/nemo-easytag:247
+msgid "Open with EasyTAG"
+msgstr "Otevřít pomocí EasyTAG"
+
+#: ../data/org.nemo.extensions.easytag.metainfo.xml:2
+msgid "Open directories and audio files with EasyTAG using the context menu"
+msgstr ""
+"Otevírejte složky a zvukové soubory pomocí aplikace EasyTAG v kontextové "
+"nabídce"
+
+#: ../src/nemo-easytag:229
+msgid "Open in EasyTAG"
+msgstr "Otevřít v EasyTAG"
+
+#: ../src/nemo-easytag:230
+msgid "Open the selected directory in EasyTAG"
+msgstr "Otevřít vybranou složku v aplikaci EasyTAG"
+
+#: ../src/nemo-easytag:248
+msgid "Open the selected files in EasyTAG"
+msgstr "Otevřít vybrané soubory v aplikaci EasyTAG"

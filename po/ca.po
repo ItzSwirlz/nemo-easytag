@@ -1,0 +1,46 @@
+# Catalan translation of nemo-easytag.
+# Copyright © 2013 Free Software Foundation, Inc.
+# This file is distributed under the same license as the nemo-easytag package.
+#
+# Jordi Mas i Hernàndez <jmas@softcatala.org>, 2013.
+# Gil Forcada <gilforcada@guifi.net>, 2013.
+# Carles Ferrando Garcia <carles.ferrando@gmail.com>, 2015.
+# Walter Garcia-Fontes <walter.garcia@upf.edu>, 2016.
+# Jordi Serratosa <jordis@softcatala.cat>, 2017.
+msgid ""
+msgstr ""
+"Project-Id-Version: nemo-easytag\n"
+"Report-Msgid-Bugs-To: https://github.com/Ubuntu-Cinnamon-Remix/nemo-easytag"
+"product=nemo-easytag&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2017-08-27 17:26+0000\n"
+"PO-Revision-Date: 2016-12-19 14:31+0100\n"
+"Last-Translator: Walter Garcia-Fontes <walter.garcia@upf.edu>\n"
+"Language-Team: Catalan <Catalan <info@softcatala.org>>\n"
+"Language: ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.7\n"
+
+#: ../data/org.nemo.extensions.easytag.metainfo.xml:1
+#: ../src/nemo-easytag.c:247
+msgid "Open with EasyTAG"
+msgstr "Obre amb l'EasyTAG"
+
+#: ../data/org.nemo.extensions.easytag.metainfo.xml:2
+msgid "Open directories and audio files with EasyTAG using the context menu"
+msgstr ""
+"Obre directoris i fitxers d'àudio amb l'EasyTAG utilitzant el menú contextual"
+
+#: ../src/nemo-easytag.c:229
+msgid "Open in EasyTAG"
+msgstr "Obre a l'EasyTag"
+
+#: ../src/nemo-easytag.c:230
+msgid "Open the selected directory in EasyTAG"
+msgstr "Obre el directori seleccionat a l'EasyTAG"
+
+#: ../src/nemo-easytag.c:248
+msgid "Open the selected files in EasyTAG"
+msgstr "Obre els fitxers seleccionats a l'EasyTAG"

@@ -1,0 +1,48 @@
+# Danish translation of nemo-easytag.
+# Copyright (C) 2013 Free Software Foundation, Inc.
+# This file is distributed under the same license as the nemo-easytag package.
+# Morten Brix Pedersen <morten@wtf.dk>, 2004-2005.
+# Joe Hansen (joedalton2@yahoo.dk), 2013.
+# Ask Hjorth Larsen <asklarsen@gmail.com>, 2016.
+# Fuld korrektur Alan Mortensen <alanmortensen.am@gmail.com>, 2016.
+#
+# Roman numerals -> romertal
+# settings -> opsætning
+# underscore -> understreg
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: nemo-easytag\n"
+"Report-Msgid-Bugs-To: https://bugzilla.gnome.org/enter_bug.cgi?"
+"product=nemo-easytag&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2017-10-22 13:02+0000\n"
+"PO-Revision-Date: 2017-10-18 14:43+0200\n"
+"Last-Translator: Alan Mortensen <alanmortensen.am@gmail.com>\n"
+"Language-Team: Danish <dansk@dansk-gruppen.dk>\n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.7.1\n"
+
+#: ../data/org.nemo.extensions.easytag.metainfo.xml:1
+#: ../src/nemo-easytag.c:247
+msgid "Open with EasyTAG"
+msgstr "Åbn med EasyTAG"
+
+#: ../data/org.nemo.extensions.easytag.metainfo.xml:2
+msgid "Open directories and audio files with EasyTAG using the context menu"
+msgstr "Åbn mapper og lydfiler med EasyTAG ved hjælp af kontekstmenuen"
+
+#: ../src/nemo-easytag.c:229
+msgid "Open in EasyTAG"
+msgstr "Åbn i EasyTAG"
+
+#: ../src/nemo-easytag.c:230
+msgid "Open the selected directory in EasyTAG"
+msgstr "Åbn den valgte mappe i EasyTAG"
+
+#: ../src/nemo-easytag.c:248
+msgid "Open the selected files in EasyTAG"
+msgstr "Åbn de valgte filer i EasyTAG"

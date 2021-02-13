@@ -1,5 +1,7 @@
 project('nemo-easytag', 'c', version: '4.9.0', meson_version: '>= 0.52')
 
+i18n = import('i18n')
+
 nemo_easytag_version = meson.project_version()
 ver_arr = nemo_easytag_version.split('.')
 
@@ -30,3 +32,4 @@ meson.add_install_script('install-scripts/meson_install_schemas.py')
 
 subdir('data')
 subdir('src')
+subdir('po')
