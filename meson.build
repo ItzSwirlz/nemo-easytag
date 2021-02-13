@@ -28,7 +28,7 @@ libnemo = dependency('libnemo-extension', version: '>= 3.0')
 libnemo_extension_dir = libnemo.get_pkgconfig_variable('extensiondir')
 
 # Install scripts
-meson.add_install_script('install-scripts/meson_install_schemas.py')
+meson.add_install_script('meson_install_schemas.py')
 
 subdir('data')
 subdir('src')
