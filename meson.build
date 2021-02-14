@@ -1,4 +1,4 @@
-project('nemo-easytag', 'c', version: '4.9.0', meson_version: '>= 0.52')
+project('nemo-easytag', 'c', version: '4.9.0')
 
 i18n = import('i18n')
 
