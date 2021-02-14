@@ -1,0 +1,44 @@
+# Brazilian Portuguese translation of nemo-easytag
+# Copyright (C) 2016 Free Software Foundation, Inc.
+# This file is distributed under the same license as the nemo-easytag package.
+# doutor.zero <doutor.zero@gmail.com>, 2005, 2007, 2008.
+# Enrico Nicoletto <liverig@gmail.com>, 2013, 2014.
+# Igor Rückert <igorruckert@yahoo.com.br>, 2015.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2013, 2014, 2016.
+msgid ""
+msgstr ""
+"Project-Id-Version: nemo-easytag\n"
+"Report-Msgid-Bugs-To: https://github.com/Ubuntu-Cinnamon-Remix/nemo-easytag"
+"POT-Creation-Date: 2020-06-17 13:05+0000\n"
+"PO-Revision-Date: 2016-12-27 06:04-0200\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <gnome-pt_br-list@gnome.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
+"X-Project-Style: gnome\n"
+
+#: ../data/org.nemo.extensions.easytag.metainfo.xml:1
+#: ../src/nemo-easytag.c:247
+msgid "Open with EasyTAG"
+msgstr "Abrir com EasyTAG"
+
+#: ../data/org.nemo.extensions.easytag.metainfo.xml:2
+msgid "Open directories and audio files with EasyTAG using the context menu"
+msgstr ""
+"Abre diretórios e arquivos de áudio com EasyTAG usando o menu de contexto"
+
+#: ../src/nemo-easytag.c:229
+msgid "Open in EasyTAG"
+msgstr "Abrir no EasyTAG"
+
+#: ../src/nemo-easytag.c:230
+msgid "Open the selected directory in EasyTAG"
+msgstr "Abre a pasta selecionada no EasyTAG"
+
+#: ../src/nemo-easytag.c:248
+msgid "Open the selected files in EasyTAG"
+msgstr "Abre os arquivos selecionados no EasyTAG"

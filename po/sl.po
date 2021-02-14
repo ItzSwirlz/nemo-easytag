@@ -1,0 +1,46 @@
+# Slovenian translation for nemo-easytag.
+# Copyright (C) 2012 nemo-easytag's COPYRIGHT HOLDER
+# This file is distributed under the same license as the nemo-easytag package.
+#
+# Martin Srebotnjak <miles@filmsi.net>, 2013.
+# Matej Urbančič <mateju@svn.gnome.org>, 2012–2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: nemo-easytag master\n"
+"Report-Msgid-Bugs-To: https://github.com/Ubuntu-Cinnamon-Remix/nemo-easytag"
+"product=nemo-easytag&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2017-07-31 21:00+0200\n"
+"PO-Revision-Date: 2020-06-17 13:27+0200\n"
+"Last-Translator: Matej Urbančič <mateju@svn.gnome.org>\n"
+"Language-Team: Slovenian GNOME Translation Team <gnome-si@googlegroups.com>\n"
+"Language: sl_SI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 1 : n%100==2 ? 2 : n%100==3 || n"
+"%100==4 ? 3 : 0);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 2.3\n"
+
+#: ../data/org.nemo.extensions.easytag.metainfo.xml:1
+#: ../src/nemo-easytag.c:247
+msgid "Open with EasyTAG"
+msgstr "Odpri z EasyTAG"
+
+#: ../data/org.nemo.extensions.easytag.metainfo.xml:2
+msgid "Open directories and audio files with EasyTAG using the context menu"
+msgstr ""
+"Omogoči odpiranje map in zvočnih datotek z EasyTag prek vsebinskega menija"
+
+#: ../src/nemo-easytag.c:229
+msgid "Open in EasyTAG"
+msgstr "Odpri z EasyTAG"
+
+#: ../src/nemo-easytag.c:230
+msgid "Open the selected directory in EasyTAG"
+msgstr "Odpri izbrano mapo z EasyTAG"
+
+#: ../src/nemo-easytag.c:248
+msgid "Open the selected files in EasyTAG"
+msgstr "Odpri izbrane datoteke z EasyTAG"

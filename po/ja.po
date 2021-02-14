@@ -1,0 +1,24 @@
+# Japanese catalog for nemo-easytag.
+# Copyright (C) 2000-2008 Free Software Foundation, Inc.
+# Takeshi Aihana <takeshi.aihana@gmail.com>, 2000-2007.
+# Hironao Komatsu <hironao@users.sourceforge.net>, 2008.
+# sicklylife <translation@sicklylife.jp>, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: nemo-easytag 2.1.5\n"
+"Report-Msgid-Bugs-To: https://github.com/Ubuntu-Cinnamon-Remix/nemo-easytag"
+"POT-Creation-Date: 2018-06-10 15:59+0000\n"
+"PO-Revision-Date: 2019-08-25 02:37+0900\n"
+"Last-Translator: sicklylife <translation@sicklylife.jp>\n"
+"Language-Team: Japanese <gnome-translation@gnome.gr.jp>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../data/org.nemo.extensions.easytag.metainfo.xml:1
+#: ../src/nemo-easytag.c:247
+msgid "Open with EasyTAG"
+msgstr "EasyTAG で開く"

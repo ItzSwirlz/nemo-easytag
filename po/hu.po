@@ -1,0 +1,47 @@
+# Hungarian translation of nemo-easytag
+# Copyright (C) 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2013, 2014, 2015, 2017. Free Software Foundation, Inc.
+# This file is distributed under the same license as the nemo-easytag package.
+#
+# Szél Miklós <mukka@freemail.hu>, 2001.
+# Nagy Boldizsár <boldi01@freemail.hu>, 2002, 2003, 2004.
+# Mészáros Csaba <csablak@freemail.hu>, 2005, 2006, 2007.
+# Balázs Úr <urbalazs@gmail.com>, 2013, 2014, 2017.
+# Gabor Kelemen <kelemeng at ubuntu dot com>, 2015.
+# Meskó Balázs <meskobalazs at gmail dot com>, 2015.
+msgid ""
+msgstr ""
+"Project-Id-Version: nemo-easytag-master-po-hu-475935.merged\n"
+"Report-Msgid-Bugs-To: https://github.com/Ubuntu-Cinnamon-Remix/nemo-easytag"
+"product=nemo-easytag&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2017-02-26 06:38+0000\n"
+"PO-Revision-Date: 2017-03-15 17:23+0100\n"
+"Last-Translator: Balázs Úr <urbalazs@gmail.com>\n"
+"Language-Team: Hungarian <kde-l10n-hu@kde.org>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../data/org.nemo.extensions.easytag.metainfo.xml:1
+#: ../src/nemo-easytag.c:247
+msgid "Open with EasyTAG"
+msgstr "Megnyitás az EasyTAG-gel"
+
+#: ../data/org.nemo.extensions.easytag.metainfo.xml:2
+msgid "Open directories and audio files with EasyTAG using the context menu"
+msgstr "Könyvtárak és hangfájlok megnyitása az EasyTag-gel a helyi menüből"
+
+#: ../src/nemo-easytag.c:229
+msgid "Open in EasyTAG"
+msgstr "Megnyitás az EasyTAG-ben"
+
+#: ../src/nemo-easytag.c:230
+msgid "Open the selected directory in EasyTAG"
+msgstr "A kijelölt könyvtár megnyitása az EasyTAG-ben"
+
+# Fájl menü
+#: ../src/nemo-easytag.c:248
+msgid "Open the selected files in EasyTAG"
+msgstr "A kijelölt fájlok megnyitása az EasyTAG-ben"

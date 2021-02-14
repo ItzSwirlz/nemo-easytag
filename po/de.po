@@ -29,23 +29,23 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 1.8.11\n"
 
-#: ../data/easytag-nautilus.metainfo.xml.in.h:1
-#: ../nautilus-extension/nautilus-easytag.c:247
+#: ../data/org.nemo.extensions.easytag.metainfo.xml:1
+#: ../src/nemo-easytag.c:247
 msgid "Open with EasyTAG"
 msgstr "Mit EasyTAG öffnen"
 
-#: ../data/easytag-nautilus.metainfo.xml.in.h:2
+#: ../data/org.nemo.extensions.easytag.metainfo.xml:2
 msgid "Open directories and audio files with EasyTAG using the context menu"
 msgstr "Ordner und Audiodateien mit EasyTAG über das Kontextmenü öffnen"
 
-#: ../nautilus-extension/nautilus-easytag.c:229
+#: ../src/nemo-easytag.c:229
 msgid "Open in EasyTAG"
 msgstr "In EasyTAG öffnen"
 
-#: ../nautilus-extension/nautilus-easytag.c:230
+#: ../src/nemo-easytag.c:230
 msgid "Open the selected directory in EasyTAG"
 msgstr "Ausgewählten Ordner in EasyTAG öffnen"
 
-#: ../nautilus-extension/nautilus-easytag.c:248
+#: ../src/nemo-easytag.c:248
 msgid "Open the selected files in EasyTAG"
 msgstr "Ausgewählte Dateien in EasyTAG öffnen"

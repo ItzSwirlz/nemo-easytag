@@ -21,26 +21,26 @@ msgstr ""
 "X-Poedit-SourceCharset: utf-8\n"
 "X-Project-Style: gnome\n"
 
-#: ../data/easytag-nautilus.metainfo.xml.in.h:1
-#: ../nautilus-extension/nautilus-easytag.c:247
+#: ../data/org.nemo.extensions.easytag.metainfo.xml:1
+#: ../src/nemo-easytag.c:247
 msgid "Open with EasyTAG"
 msgstr "Άνοιγμα με το EasyTAG"
 
-#: ../data/easytag-nautilus.metainfo.xml.in.h:2
+#: ../data/org.nemo.extensions.easytag.metainfo.xml:2
 msgid "Open directories and audio files with EasyTAG using the context menu"
 msgstr ""
 
-#: ../nautilus-extension/nautilus-easytag.c:229
+#: ../src/nemo-easytag.c:229
 msgid "Open in EasyTAG"
 msgstr "Άνοιγμα στο EasyTAG"
 
-#: ../nautilus-extension/nautilus-easytag.c:230
+#: ../src/nemo-easytag.c:230
 #, fuzzy
 #| msgid "Save the selected images to files"
 msgid "Open the selected directory in EasyTAG"
 msgstr "Αποθήκευση των επιλεγμένων εικόνων στα αρχεία"
 
-#: ../nautilus-extension/nautilus-easytag.c:248
+#: ../src/nemo-easytag.c:248
 #, fuzzy
 #| msgid "Include only the selected files"
 msgid "Open the selected files in EasyTAG"

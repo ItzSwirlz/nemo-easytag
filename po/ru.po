@@ -1,0 +1,47 @@
+# Russian catalog for nemo-easytag.
+# Copyright (C) 2000-2005 Free Software Foundation, Inc.
+# Serg Zhumatiy <serg@guru.ru>, 2000, 2001.
+# Andrey Astafiev <andrei@altlinux.ru>, 2001, 2002, 2003, 2004, 2005.
+# Stas Solovey <whats_up@tut.by>, 2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: nemo-easytag 1.99.11\n"
+"Report-Msgid-Bugs-To: https://github.com/Ubuntu-Cinnamon-Remix/nemo-easytag"
+"product=nemo-easytag&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2016-12-27 08:13+0000\n"
+"PO-Revision-Date: 2017-01-11 13:34+0300\n"
+"Last-Translator: Aleksey Kabanov <ak099@mail.ru>\n"
+"Language-Team: Russian <gnome-cyr@gnome.org>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Language: ru_RU\n"
+"X-Source-Language: C\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 1.6.4\n"
+
+#: ../data/org.nemo.extensions.easytag.metainfo.xml:1
+#: ../src/nemo-easytag.c:247
+msgid "Open with EasyTAG"
+msgstr "Открыть в EasyTAG"
+
+#: ../data/org.nemo.extensions.easytag.metainfo.xml:2
+msgid "Open directories and audio files with EasyTAG using the context menu"
+msgstr ""
+"Открыть папки и аудиофайлы в EasyTAG с использованием контекстного меню"
+
+#: ../src/nemo-easytag.c:229
+msgid "Open in EasyTAG"
+msgstr "Открыть в EasyTAG"
+
+#: ../src/nemo-easytag.c:230
+msgid "Open the selected directory in EasyTAG"
+msgstr "Открыть выделенную папку в EasyTAG"
+
+#: ../src/nemo-easytag.c:248
+#| msgid "Include only the selected files"
+msgid "Open the selected files in EasyTAG"
+msgstr "Открыть выделенные файлы в EasyTAG"
